@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T12:19:19.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="o5L8aHeLUY86nasXJUtM" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-19T12:33:05.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9t721Zoazkcn-UtV2Sbn" version="22.0.4" type="github" pages="2">
   <diagram name="第 1 页" id="CVwKr8z6vn4hAvoOYOmV">
-    <mxGraphModel dx="1060" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eMlEQ8UfdBLLfz72NkHh" name="第 2 页">
-    <mxGraphModel dx="909" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,9 +180,6 @@
         <mxCell id="awgla1CCDMvEeUTZh9nt-1" value="語音輸入問題" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="384" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4oGaADuyMB6ds8kvn3cp-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-DTyQsAOb1gBTHliAzk-1" target="7Y5v-hRCNparEOJWz9xK-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e-DTyQsAOb1gBTHliAzk-1" value="文字輸入問題" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="500" width="170" height="50" as="geometry" />
         </mxCell>
@@ -236,6 +233,24 @@
         </mxCell>
         <mxCell id="gwZ__u716JVSlGmPjncW-1" value="獲得回解釋和回饋" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="650" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cgzSS4urGqLIAqrgQ1B-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="awgla1CCDMvEeUTZh9nt-1" target="4oGaADuyMB6ds8kvn3cp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="560" as="sourcePoint" />
+            <mxPoint x="435" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cgzSS4urGqLIAqrgQ1B-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sHtY1Kl4enrBpcG3C4bV-8" target="7Y5v-hRCNparEOJWz9xK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="540" as="sourcePoint" />
+            <mxPoint x="360" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

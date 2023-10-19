@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T12:58:54.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QDaIBGqn9j_zWE08t0oF" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-19T14:09:16.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cxyAAIJzYO4PVTkgaOnk" version="22.0.4" type="github" pages="2">
   <diagram name="第 1 页" id="CVwKr8z6vn4hAvoOYOmV">
-    <mxGraphModel dx="1272" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="p51J1jFppIbg0KQrvtKk-6" value="輸入文字問題" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="370" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p51J1jFppIbg0KQrvtKk-7" value="解釋和反饋" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p51J1jFppIbg0KQrvtKk-7" value="獲得解釋和反饋" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p51J1jFppIbg0KQrvtKk-8" value="上傳檔案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eMlEQ8UfdBLLfz72NkHh" name="第 2 页">
-    <mxGraphModel dx="1735" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

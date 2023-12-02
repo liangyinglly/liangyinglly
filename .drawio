@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:13:16.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="--bUM_lMjDrrdebEEE2s" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-02T02:11:56.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="ykSL_Ot_uh-b6Ntqy29W" version="22.1.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OcEJ3ogCuiLp9vhQS_AB" name="第 2 页">
-    <mxGraphModel dx="1590" dy="1078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,7 +338,7 @@
         <mxCell id="G5GVc891PgMFmuau7sJ2-1" value="顯示介面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="78" width="81" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="G5GVc891PgMFmuau7sJ2-2" value="活動簡介資料" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G5GVc891PgMFmuau7sJ2-2" value="活動" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="202" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Jsz-aOW3G6CoenGlocv-1" value="活動瀏覽介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -392,7 +392,7 @@
         <mxCell id="7c9qm2uI0HmTzey6UanD-4" value="執行查詢控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="349" width="81" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="7c9qm2uI0HmTzey6UanD-5" value="活動簡介資料" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7c9qm2uI0HmTzey6UanD-5" value="活動" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="358" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7c9qm2uI0HmTzey6UanD-6" value="搜尋結果介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -437,7 +437,7 @@
         <mxCell id="yZjiyyxCE7JhwWFQXCma-4" value="顯示介面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432" y="599" width="81" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="yZjiyyxCE7JhwWFQXCma-5" value="活動詳細資料" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yZjiyyxCE7JhwWFQXCma-5" value="活動" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="723" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-6" value="活動內容介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">

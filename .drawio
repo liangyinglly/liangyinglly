@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T02:11:56.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="ykSL_Ot_uh-b6Ntqy29W" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-03T02:57:08.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="uxlJ70786ELiyFNGI9n3" version="22.1.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -335,20 +335,14 @@
         <mxCell id="J_0ThxysxDD1cubf5Snj-6" value="網站首頁介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="87" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G5GVc891PgMFmuau7sJ2-1" value="顯示介面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G5GVc891PgMFmuau7sJ2-1" value="瀏覽活動控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="78" width="81" height="89" as="geometry" />
         </mxCell>
         <mxCell id="G5GVc891PgMFmuau7sJ2-2" value="活動" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="588" y="202" width="80" height="80" as="geometry" />
+          <mxGeometry x="588" y="82.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Jsz-aOW3G6CoenGlocv-1" value="活動瀏覽介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="202" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tUJ1QLOX0GTEX69aOOu_-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="168" y="129" as="sourcePoint" />
-            <mxPoint x="246" y="245" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tUJ1QLOX0GTEX69aOOu_-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -358,23 +352,23 @@
         </mxCell>
         <mxCell id="tUJ1QLOX0GTEX69aOOu_-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="131" as="sourcePoint" />
-            <mxPoint x="370" y="243" as="targetPoint" />
+            <mxPoint x="604" y="180" as="sourcePoint" />
+            <mxPoint x="529" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tUJ1QLOX0GTEX69aOOu_-4" value="顯示活動控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tUJ1QLOX0GTEX69aOOu_-4" value="顯示介面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="191" width="81" height="89" as="geometry" />
         </mxCell>
         <mxCell id="tUJ1QLOX0GTEX69aOOu_-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="374" y="245" as="sourcePoint" />
-            <mxPoint x="422" y="245" as="targetPoint" />
+            <mxPoint x="422" y="245" as="sourcePoint" />
+            <mxPoint x="374" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tUJ1QLOX0GTEX69aOOu_-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="525" y="244" as="sourcePoint" />
-            <mxPoint x="573" y="244" as="targetPoint" />
+            <mxPoint x="531" y="126.41" as="sourcePoint" />
+            <mxPoint x="579" y="126.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7c9qm2uI0HmTzey6UanD-1" value="會員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -398,12 +392,6 @@
         <mxCell id="7c9qm2uI0HmTzey6UanD-6" value="搜尋結果介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="473" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7c9qm2uI0HmTzey6UanD-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="168" y="400" as="sourcePoint" />
-            <mxPoint x="246" y="516" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7c9qm2uI0HmTzey6UanD-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="377" y="397.5" as="sourcePoint" />
@@ -412,8 +400,8 @@
         </mxCell>
         <mxCell id="7c9qm2uI0HmTzey6UanD-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="402" as="sourcePoint" />
-            <mxPoint x="370" y="514" as="targetPoint" />
+            <mxPoint x="603" y="450" as="sourcePoint" />
+            <mxPoint x="532" y="499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7c9qm2uI0HmTzey6UanD-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -435,19 +423,13 @@
           <mxGeometry x="259" y="608" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-4" value="顯示介面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432" y="599" width="81" height="89" as="geometry" />
+          <mxGeometry x="434" y="714" width="81" height="89" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-5" value="活動" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="723" width="80" height="80" as="geometry" />
+          <mxGeometry x="595" y="603.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-6" value="活動內容介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="723" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yZjiyyxCE7JhwWFQXCma-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="166" y="650" as="sourcePoint" />
-            <mxPoint x="244" y="766" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -457,23 +439,23 @@
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="422" y="652" as="sourcePoint" />
-            <mxPoint x="368" y="764" as="targetPoint" />
+            <mxPoint x="595" y="695" as="sourcePoint" />
+            <mxPoint x="526" y="751.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZjiyyxCE7JhwWFQXCma-10" value="顯示活動內容控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432" y="712" width="81" height="89" as="geometry" />
+        <mxCell id="yZjiyyxCE7JhwWFQXCma-10" value="活動內容控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="599" width="81" height="89" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="372" y="766" as="sourcePoint" />
-            <mxPoint x="420" y="766" as="targetPoint" />
+            <mxPoint x="415" y="767" as="sourcePoint" />
+            <mxPoint x="367" y="767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="523" y="765" as="sourcePoint" />
-            <mxPoint x="571" y="765" as="targetPoint" />
+            <mxPoint x="533" y="642.91" as="sourcePoint" />
+            <mxPoint x="581" y="642.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-13" value="管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -492,7 +474,7 @@
           <mxGeometry x="434" y="862" width="81" height="89" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-17" value="管理者資料" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="588" y="986" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="979.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-18" value="個人資訊介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="986" width="100" height="80" as="geometry" />
@@ -511,23 +493,68 @@
         </mxCell>
         <mxCell id="yZjiyyxCE7JhwWFQXCma-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="915" as="sourcePoint" />
-            <mxPoint x="370" y="1027" as="targetPoint" />
+            <mxPoint x="433" y="937" as="sourcePoint" />
+            <mxPoint x="370" y="1014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZjiyyxCE7JhwWFQXCma-22" value="顯示個人資訊控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yZjiyyxCE7JhwWFQXCma-22" value="管理者資料&lt;br&gt;控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="975" width="81" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="yZjiyyxCE7JhwWFQXCma-23" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="yZjiyyxCE7JhwWFQXCma-23" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="374" y="1029" as="sourcePoint" />
             <mxPoint x="422" y="1029" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZjiyyxCE7JhwWFQXCma-24" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="PRixxB4F-gb2GykboLKQ-1" value="顯示介面控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="464" width="81" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="525" y="1028" as="sourcePoint" />
-            <mxPoint x="573" y="1028" as="targetPoint" />
+            <mxPoint x="425" y="512.4100000000001" as="sourcePoint" />
+            <mxPoint x="377" y="512.4100000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-4" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="534" y="1025.41" as="sourcePoint" />
+            <mxPoint x="582" y="1025.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-7" value="修改管理者&lt;br&gt;介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="1100" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-9" value="管理者資料" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1088.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-10" value="修改管理者&lt;br&gt;控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="1084" width="81" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-11" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="1138" as="sourcePoint" />
+            <mxPoint x="425" y="1138" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-12" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="537" y="1134.41" as="sourcePoint" />
+            <mxPoint x="585" y="1134.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1165" as="sourcePoint" />
+            <mxPoint x="367" y="1242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-15" value="網站首頁介面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1209" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PRixxB4F-gb2GykboLKQ-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="914" as="sourcePoint" />
+            <mxPoint x="251" y="1143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
